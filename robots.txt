@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# DA AGGIORNARE con il dominio definitivo
+Sitemap: https://www.DOMINIO-DA-CONFERMARE.it/sitemap.xml
